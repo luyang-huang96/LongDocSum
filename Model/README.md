@@ -18,3 +18,4 @@ For ROUGE evaluation, you can run
 python eval_mode.py --decode_dir [/path/to/save/summary] --ref_dir [/path/to/ref] --rouge
 ```
 
+Processed GovReport Data can be found here: https://drive.google.com/drive/folders/128KyqPTwZ0Si9RV_IX-md2dcHeRTUHkr
